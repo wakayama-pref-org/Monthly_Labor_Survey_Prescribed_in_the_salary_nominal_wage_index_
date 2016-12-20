@@ -1,4 +1,4 @@
-# Monthly_Labor_Survey_Prescribed_in_the_salary_nominal_wage_index_
+# monthly_labor_survey_prescribed_in_the_salary_nominal_wage_index_
 【毎月勤労統計調査(和歌山県)_産業別時系列表（名目賃金指数（所定内給与）及び対前年比)です。】
 ◆毎月勤労統計調査とは
 〇調査の目的
